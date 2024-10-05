@@ -1,3 +1,5 @@
-Project: Snake Water Gun game 
+Project: Snake Water Gun game
+<br>
 language: Python
+<br>
 Modules Used: Random module
