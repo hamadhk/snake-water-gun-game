@@ -13,14 +13,17 @@ User vs computer format.
 # Requirements
 Python 3.x
 # How to Run
-# 1.Clone the repository:
+# 1. Clone the repository:
 Copy code
+<br>
 git clone https://github.com/your-username/snake-water-gun-game.git
-# 2.Navigate to the project folder:
+# 2. Navigate to the project folder:
 Copy code
+<br>
 cd main.py
-# 3.Run the game:
+# 3. Run the game:
 Copy code
+<br>
 python main.py
 # How to Play
 After running the game, you will be prompted to enter your choice:
