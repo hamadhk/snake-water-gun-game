@@ -14,14 +14,14 @@ User vs computer format.
 Python 3.x
 # How to Run
 # 1.Clone the repository:
-# Copy code
+Copy code
 git clone https://github.com/your-username/snake-water-gun-game.git
 # 2.Navigate to the project folder:
-# Copy code
-cd snake-water-gun-game
+Copy code
+cd main.py
 # 3.Run the game:
-# Copy code
-python snake_water_gun.py
+Copy code
+python main.py
 # How to Play
 After running the game, you will be prompted to enter your choice:
 Type s for Snake
@@ -31,4 +31,4 @@ The computer will randomly select one of the three options.
 The game will display your choice and the computer’s choice.
 It will then tell you if it's a draw, you win, or you lose.
 # Customization
-You can adjust the game's logic or add new features by editing the snake_water_gun.py file.
+You can adjust the game's logic or add new features by editing the main.py file.
